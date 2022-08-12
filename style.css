@@ -28,7 +28,7 @@ body{
     flex-direction: column;
     align-items: self-end;
     padding: 10px 5px;
-    height: 5vw
+    min-height: 5vw
   }
   .final-result{
     margin: 0;
